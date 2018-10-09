@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.todoContainer {
+  margin: 20px auto 20px auto;
+  width: 66%;
+  min-height: 500px;
+  padding: 20px;
+}
+
